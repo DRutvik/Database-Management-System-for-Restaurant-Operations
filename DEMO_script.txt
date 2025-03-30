@@ -1,9 +1,3 @@
--- Team 6
--- Member 1: Praveesha Gongura
--- Member 2: Saniya Tayyiba
--- Member 3: Rutvik Deshmukh
--- Member 4: Srikrishnachaitanya Nalam
--- Member 5: Rishika Chamala
 SET SERVEROUTPUT ON;
 -- Drop Commands
 DROP TABLE recommendations;
